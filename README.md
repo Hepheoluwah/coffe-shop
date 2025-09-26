@@ -59,6 +59,3 @@ coffe-shop/
 - Update copy in `src/components/**` to reflect your shop name, address, and pricing.
 - Replace images in `src/assets/**` with your brand visuals.
 - Tailwind theme colors can be adjusted in `tailwind.config.js`.
-
-### License
-This project is provided as-is for learning and portfolio use. Add a license file if you plan to distribute.
